@@ -1,0 +1,70 @@
+.container {
+  border: 2px solid grey;
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.text {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px
+}
+
+.color-panel {
+  display: inline-block;
+  width: 33%;
+  height: 100px;
+}
+
+.babyBlue {
+  background-color: #00ffff;
+}
+
+.crimson {
+  background-color: #dc143c;
+}
+
+.orchid {
+  background-color: #9932cc;
+}
+
+h2 {
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.em {
+  font-style: italic;
+}
+
+.sourceFont {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.nunitoFont {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppinsFont {
+  font-family: 'Poppins', sans-serif;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.borderRight {
+  border-right: 1px solid black;
+}
